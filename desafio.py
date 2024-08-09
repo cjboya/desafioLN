@@ -48,7 +48,7 @@ def train_classifier():
     
     # Evaluar el modelo
     y_pred = model.predict(X_test)
-    print(f'Accuracy: {metrics.accuracy_score(y_test, y_pred)}')
+    #print(f'Accuracy: {metrics.accuracy_score(y_test, y_pred)}')
     
     return model
 
