@@ -1,0 +1,156 @@
+{
+    "summary": {
+        "total_articles": 100,
+        "total_sources": 67,
+        "total_categories": 7,
+        "total_keywords": 10,
+        "total_sentiments": 3
+    },
+    "top_keywords": [
+        {
+            "keyword": "chars",
+            "frequency": 94
+        },
+        {
+            "keyword": "tesla",
+            "frequency": 76
+        },
+        {
+            "keyword": "cybertruck",
+            "frequency": 35
+        },
+        {
+            "keyword": "elon",
+            "frequency": 24
+        },
+        {
+            "keyword": "crash",
+            "frequency": 22
+        },
+        {
+            "keyword": "musk",
+            "frequency": 22
+        },
+        {
+            "keyword": "2024",
+            "frequency": 18
+        },
+        {
+            "keyword": "li",
+            "frequency": 18
+        },
+        {
+            "keyword": "new",
+            "frequency": 17
+        },
+        {
+            "keyword": "electric",
+            "frequency": 14
+        }
+    ],
+    "popular_categories": [
+        {
+            "category": "economy",
+            "count": 60
+        },
+        {
+            "category": "entertainment",
+            "count": 16
+        },
+        {
+            "category": "politics",
+            "count": 13
+        },
+        {
+            "category": "sports",
+            "count": 5
+        },
+        {
+            "category": "crime",
+            "count": 3
+        }
+    ],
+    "category_distribution": {
+        "crime": 3,
+        "economy": 60,
+        "entertainment": 16,
+        "politics": 13,
+        "sports": 5,
+        "health": 1,
+        "social_media": 2
+    },
+    "sources_distribution": {
+        "CNBC": 1,
+        "Unwire.hk": 1,
+        "Investing.com": 4,
+        "Biztoc.com": 10,
+        "Futurism": 3,
+        "Electrek": 5,
+        "Yahoo Entertainment": 6,
+        "Decrypt": 1,
+        "The Boston Globe": 2,
+        "Cnbeta.com.tw": 1,
+        "IGN": 1,
+        "Nacion.com": 1,
+        "Bitcoinist": 1,
+        "Overclockers.ru": 1,
+        "Bankier.pl": 1,
+        "Securityaffairs.com": 1,
+        "[Removed]": 2,
+        "Naftemporiki.gr": 1,
+        "Sapo.pt": 1,
+        "MobileSyrup": 1,
+        "Business Insider": 1,
+        "Protothema.gr": 1,
+        "CNET": 1,
+        "Drive.com.au": 1,
+        "Eldiario.es": 1,
+        "Freerepublic.com": 1,
+        "CleanTechnica": 4,
+        "Standaard.be": 1,
+        "Berliner Morgenpost": 1,
+        "Everyeye.it": 1,
+        "Snopes.com": 1,
+        "Marca": 1,
+        "Autoblog": 1,
+        "Android.com.pl": 2,
+        "Slate Magazine": 1,
+        "Pypi.org": 1,
+        "Aristeguinoticias.com": 1,
+        "Jungewelt.de": 1,
+        "Novate.ru": 1,
+        "Meneame.net": 2,
+        "PCMag.com": 2,
+        "Forbes": 1,
+        "IPWatchdog.com": 1,
+        "Abertoatedemadrugada.com": 1,
+        "The Irish Times": 1,
+        "Faz.net": 1,
+        "ABC News": 2,
+        "Focus": 1,
+        "Boston Herald": 1,
+        "Newsweek": 2,
+        "TechCrunch": 1,
+        "9to5Toys": 1,
+        "OilPrice.com": 1,
+        "Breitbart News": 1,
+        "Jneurosci.org": 1,
+        "Index.hu": 1,
+        "Shiftdelete.net": 1,
+        "Theregister.com": 1,
+        "Observer": 1,
+        "Eonline.com": 1,
+        "Hdblog.it": 1,
+        "N-tv.de": 1,
+        "Tech Xplore": 1,
+        "Europapress.es": 1,
+        "Applesfera.com": 1,
+        "Observador.pt": 1,
+        "Hibridosyelectricos.com": 1
+    },
+    "sentiment_distribution": {
+        "neutral": 72,
+        "negative": 7,
+        "positive": 21
+    }
+}
