@@ -60,39 +60,34 @@ Este proyecto analiza noticias utilizando la API de NewsAPI. El script realiza u
 ## Ejemplo de Salida por Consola
 
 Cuando el script se ejecute, se mostrará algo como esto en la consola:
+### Sources:
 
-Sources:
-+----------------+-------+
-| Source         | Count |
-+----------------+-------+
-| Source A       | 10    |
-| Source B       | 8     |
-+----------------+-------+
+| Source   | Count |
+|----------|-------|
+| Source A | 10    |
+| Source B | 8     |
 
-Categories:
-+----------------+-------+
-| Category       | Count |
-+----------------+-------+
-| Sports         | 15    |
-| Entertainment  | 12    |
-+----------------+-------+
+### Categories:
 
-Keywords:
-+----------------+-----------+
-| Keyword        | Frequency |
-+----------------+-----------+
-| tesla          | 20        |
-| electric       | 15        |
-+----------------+-----------+
+| Category      | Count |
+|---------------|-------|
+| Sports        | 15    |
+| Entertainment | 12    |
 
-Sentiments:
-+------------+-------+
-| Sentiment   | Count |
-+------------+-------+
-| Positive    | 60    |
-| Neutral     | 30    |
-| Negative    | 10    |
-+------------+-------+
+### Keywords:
+
+| Keyword   | Frequency |
+|-----------|-----------|
+| tesla     | 20        |
+| electric  | 15        |
+
+### Sentiments:
+
+| Sentiment  | Count |
+|------------|-------|
+| Positive   | 60    |
+| Neutral    | 30    |
+| Negative   | 10    |
 
 ## Manejo de Errores
 
