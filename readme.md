@@ -59,7 +59,7 @@ Este proyecto analiza noticias utilizando la API de NewsAPI. El script realiza u
 
 ## Ejemplo de Salida por Consola
 
-Cuando el script se ejecute, se mostrará algo como esto en la consola:
+Cuando el script se ejecute, y se elija la opción correcta, se mostrará algo como esto en la consola:
 ### Sources:
 
 | Source   | Count |
