@@ -57,9 +57,10 @@ Este proyecto analiza noticias utilizando la API de NewsAPI. El script realiza u
    - Distribución de categorías y fuentes.
 
 
-## Ejemplo de Salida por Consola
+## Ejemplo de Salida por Consola y reporte Json
 
 Cuando el script se ejecute, y se elija la opción correcta, se mostrará algo como esto en la consola:
+(también existe la opción de generar reporte).
 ### Sources:
 
 | Source   | Count |
