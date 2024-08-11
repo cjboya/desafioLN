@@ -40,8 +40,8 @@ def train_classifier():
     model.fit(X_train, y_train)  # Entrenar el modelo
     
     y_pred = model.predict(X_test)  # Hacer predicciones en el conjunto de prueba
-    print(f'Accuracy: {metrics.accuracy_score(y_test, y_pred)}')  # Imprimir la precisión del modelo
-    print(classification_report(y_test, y_pred, zero_division=1))  # Imprimir un reporte de clasificación
+    #print(f'Accuracy: {metrics.accuracy_score(y_test, y_pred)}')  # Imprimir la precisión del modelo
+    #print(classification_report(y_test, y_pred, zero_division=1))  # Imprimir un reporte de clasificación
     
     return model  # Devolver el modelo entrenado
 
